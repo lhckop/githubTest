@@ -1,3 +1,3 @@
-From centos
+From nginx
 
 
